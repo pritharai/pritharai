@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pritharai
-- 👀 I’m interested in web development and data science
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning JS, React
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me- ph no.-+91 9041307588 email- pritharai873@gmail.com
