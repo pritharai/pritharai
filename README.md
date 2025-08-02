@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @pritharai
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning JS, React
-- 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me- ph no.-+91 9041307588 email- pritharai873@gmail.com
--   Proficient in C, C++, HTML, CSS, Python.
+👋 Hi, I’m @pritharai
+💻 I’m a freelance web developer with a strong foundation in the MERN stack (MongoDB, Express.js, React, Node.js)
+🌱 Currently exploring advanced frontend and backend development techniques
+👀 Interested in building responsive, scalable, and user-centric web applications
+📚 Proficient in JavaScript, React, Node.js, HTML, CSS, C, C++, and Python
+🚀 Looking to collaborate on exciting web development projects and grow as a fresher in the tech industry
+📫 Let’s connect:
+    📧 pritharai873@gmail.com
+    📞 +91 9041307588
   
 
 <!---
