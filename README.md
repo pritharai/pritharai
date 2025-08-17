@@ -152,7 +152,7 @@ const pritharai = {
 
 ### 💡 "Code is poetry written in logic"
 
-![Snake Animation](https://raw.githubusercontent.com/pritharai/pritharai/output/github-contribution-grid-snake.svg)
+
 
 **Thanks for visiting my profile! Let's build something amazing together! 🚀**
 
