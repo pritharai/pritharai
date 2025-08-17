@@ -78,7 +78,7 @@ const pritharai = {
 - DevOps fundamentals
 - Modern CSS frameworks
 
-### 🎯 2024 Goals
+### 🎯 2025 Goals
 - [ ] Build 5+ full-stack projects
 - [ ] Contribute to open source projects
 - [ ] Master advanced JavaScript concepts
