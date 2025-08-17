@@ -91,7 +91,7 @@ const pritharai = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pritharai&repo=your-awesome-project&theme=tokyonight&hide_border=true)](https://github.com/pritharai/your-awesome-project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pritharai&repo=finserv&theme=tokyonight&hide_border=true)](https://github.com/pritharai/finserv)
 
 *More projects coming soon! 🚀*
 
